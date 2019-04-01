@@ -1,16 +1,11 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Motivations, Beliefs, Interests, etc.
 ---
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+My high score in the dinosaur game is 1343.
+I love to automate things. That is what got me interested in data science and coding in general. 
+One quote on the subject I like to take to heart is "I'd do everything in my power if it meant that someone else would do nothing."
+That is a quote from the television show Parks & Rec and it wasn't about automation at all, rather limiting the power of the 
+government. However, it still applies to my situation as I see it.
